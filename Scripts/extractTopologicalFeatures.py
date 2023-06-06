@@ -10,7 +10,6 @@ import pandas as pd
 import numpy as np
 import gudhi
 import math
-from sklearn.ensemble import GradientBoostingClassifier 
 
 
 def extract_windowsize_info(filename, sites:list, size=20):
