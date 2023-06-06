@@ -1,5 +1,5 @@
 # SUMO_TOP
-An application od topologiccal data analysis in predicting sumoylation sites
+An application of topologiccal data analysis in predicting sumoylation sites
 
 # Requirement
 requirement.txt
