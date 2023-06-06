@@ -1,5 +1,5 @@
 # SUMO_TOP
-An application of topologiccal data analysis in predicting sumoylation sites
+An application of topological data analysis in predicting sumoylation sites
 
 # Requirement
 requirement.txt
@@ -13,8 +13,8 @@ requirement.txt
 
 # Scripts
 1. binary_classifiers.py: Binary classifiers 
-2. extractTopologicalFeatures.py: Features construted from topological data analysis for predicting sumoylation sites
-3. reproduceResults.py: Functions to reproduce the results, including pairwise sequence identity, undersampling and validation strategies
+2. extractTopologicalFeatures.py: Features constructed from topological data analysis for predicting sumoylation sites
+3. reproduceResults.py: Functions to reproduce the results, including de-redundant, undersampling and validation strategies
 4. interpretabilityOfFeatures.py: Functions including f-score computation, pie graph, ROC curves and bar graph
 
 # Contact 
