@@ -19,3 +19,6 @@ requirement.txt
 
 # Contact 
 Please feel free to contact us if you need any help: lxx0217@mail.dlut.edu.cn
+
+# DOI
+10.5281/zenodo.8035475
